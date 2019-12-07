@@ -1,9 +1,9 @@
 {
   "name": "Samba share",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "slug": "samba",
   "description": "Expose Hass.io folders with SMB/CIFS",
-  "url": "https://github.com/popsodav/hassio-addons-example/samba/",
+  "url": "https://github.com/INSANEMODE/hassio-addons-example/samba/",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "services",
   "boot": "auto",
