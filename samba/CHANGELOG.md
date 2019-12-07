@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.2
+- change from /dev/sda1 to dev/sda2
+
 ## 8.1
 - Update Samba to version 4.8.8
 
